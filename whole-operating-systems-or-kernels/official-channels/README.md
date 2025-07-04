@@ -1,0 +1,12 @@
+# OPERATING SYSTEMS OFFICIAL CHANNELS
+- [Linux](https://github.com/torvalds/linux)
+- [xv6](https://github.com/mit-pdos/xv6-public.git)
+- [mentos](https://mentos-team.github.io/)
+- [multics](https://multicians.org/multics.html)
+- [managarm](https://managarm.org/)
+- [ironclad](https://ironclad-os.org/)
+- [FreeBSD](https://www.freebsd.org/)
+- [Solaris](https://www.oracle.com/it/solaris/solaris11/)
+- [MINIX](https://www.minix3.org/)
+- [OS/2](https://en.wikipedia.org/wiki/OS/2)
+- [FreeRTOS](https://www.freertos.org/)
